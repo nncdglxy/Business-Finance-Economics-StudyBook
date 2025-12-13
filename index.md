@@ -12,3 +12,6 @@ This repository sequences the content in Aswath Damodaran's website in an order 
 2. [Foundations of finance](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastfoundationsonline.htm)
 
 3. [Statistics for finance and investing](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcaststatistics.htm)
+
+4. [Corporate Lifecycle](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastCLC.htm)
+   

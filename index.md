@@ -1,32 +1,26 @@
 # Finance Playlist
 
-Curated collection of finance resources: articles, videos, podcasts, playlists, and projects useful for learning and reference.
+Study guide of Prof. Aswath Damodaran's finance courses.
+
 
 ## Purpose
 
-This repository collects high-quality resources about finance, investing, quantitative finance, personal finance, and related topics. The goal is to make it easy to discover and share learning materials.
+This repository sequences the content in Aswath Damodaran's website in an order that I followed for reference and my own learnings.
 
-## Structure
+[original site] (https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastfoundationsonline.htm)
 
-- resources/: links to articles, blogs, and papers
-- playlists/: curated video and podcast playlists
-- projects/: example projects and notebooks
-- notes/: short summaries and study notes
+## Learning fundamentals:
 
-## How to contribute
+[Sequence of learning]:
+(https://aswathdamodaran.blogspot.com/2022/12/a-return-to-teaching-spring-2023-edition.html)
 
-Contributions are welcome!
+Important links:
 
-1. Fork the repository.
-2. Add resources under the appropriate folder or update this index.md.
-3. Open a pull request describing your changes.
+1. [Minimalist accounting class]
+(https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastacctg.htm)
 
-Please follow the repository's existing style and provide source links where possible.
+2. [Foundations of finance]
+(https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastfoundationsonline.htm)
 
-## License
-
-Licensed under the MIT License. See LICENSE for details.
-
---
-
-Added by GitHub Copilot on behalf of user nncdglxy.
+3. [Statistics for finance and investing]
+(https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcaststatistics.htm)

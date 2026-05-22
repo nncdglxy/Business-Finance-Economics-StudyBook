@@ -12,5 +12,10 @@ Realistic Goal - My goal is to know fundamentals enough to make better decisions
 I may read about everything there is to read about these topics, but eventually will narrow-down subset of the topics that I can dig deeper and get better at.
 
 
+1. Study Material
+2. Reading Log
+
+
+
 
 

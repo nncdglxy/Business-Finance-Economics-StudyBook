@@ -18,6 +18,7 @@ This repository sequences the content in Aswath Damodaran's website in an order 
 
 # Economics Fundamentals
 
-Khan Academy Economics Track:
-[https://www.khanacademy.org/economics-finance-domain]
+1. [Khan Academy - Economics Track](https://www.khanacademy.org/economics-finance-domain)
+2. [MIT Opencourseware - Principles of Microeconomics](https://www.youtube.com/show/VLPLUl4u3cNGP60V7HxLYRaJMbFzP77bzEjb?sbp=Kgs4c3NqS1I3bk5ja0AB)
+3. [MIT Opencourseware - Public Finance and Public Policy](https://www.youtube.com/watch?v=i30jbbk7yoQ&list=PLUl4u3cNGP62KS2YhlASvGBxxL8HgB11p)
    
